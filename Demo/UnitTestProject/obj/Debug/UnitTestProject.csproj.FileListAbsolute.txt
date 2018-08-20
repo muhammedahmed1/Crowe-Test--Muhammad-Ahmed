@@ -1,0 +1,7 @@
+D:\Irfan Working Folder\Alphasoft\Test\Demo\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+D:\Irfan Working Folder\Alphasoft\Test\Demo\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Irfan Working Folder\Alphasoft\Test\Demo\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Irfan Working Folder\Alphasoft\Test\Demo\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Irfan Working Folder\Alphasoft\Test\Demo\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Irfan Working Folder\Alphasoft\Test\Demo\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Irfan Working Folder\Alphasoft\Test\Demo\UnitTestProject\obj\Debug\UnitTestProject.pdb

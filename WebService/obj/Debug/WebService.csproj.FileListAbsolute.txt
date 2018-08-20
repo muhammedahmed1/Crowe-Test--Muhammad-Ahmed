@@ -1,0 +1,12 @@
+D:\Irfan Working Folder\Alphasoft\Test\Demo\WebService\bin\WebService.dll.config
+D:\Irfan Working Folder\Alphasoft\Test\Demo\WebService\bin\WebService.dll
+D:\Irfan Working Folder\Alphasoft\Test\Demo\WebService\bin\WebService.pdb
+D:\Irfan Working Folder\Alphasoft\Test\Demo\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+D:\Irfan Working Folder\Alphasoft\Test\Demo\WebService\obj\Debug\WebService.dll
+D:\Irfan Working Folder\Alphasoft\Test\Demo\WebService\obj\Debug\WebService.pdb
+D:\Irfan Working Folder\Alphasoft\Test\WebService\WebService\bin\WebService.dll.config
+D:\Irfan Working Folder\Alphasoft\Test\WebService\WebService\bin\WebService.dll
+D:\Irfan Working Folder\Alphasoft\Test\WebService\WebService\bin\WebService.pdb
+D:\Irfan Working Folder\Alphasoft\Test\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+D:\Irfan Working Folder\Alphasoft\Test\WebService\WebService\obj\Debug\WebService.dll
+D:\Irfan Working Folder\Alphasoft\Test\WebService\WebService\obj\Debug\WebService.pdb
